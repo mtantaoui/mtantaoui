@@ -1,9 +1,7 @@
 # Let's Build High-Performance Software Solutions Together! 🚀
 
 With a strong foundation in Python and Rust, and a passion for high-performance computing and cloud technologies, I’m dedicated to creating efficient, scalable, and innovative software solutions. My work spans from numerical computing to cloud-based architectures, always pushing the boundaries of performance and reliability.
-About Me
 
-I specialize in building software that solves complex problems efficiently, combining my skills in Python and Rust with deep research into HPC techniques like CUDA programming. I’m also proficient in cloud-native development, with hands-on experience deploying scalable solutions using AWS Lambda, AWS Step Functions, and other cloud services.
 
 ## What I Do
 
@@ -13,7 +11,7 @@ I specialize in building software that solves complex problems efficiently, comb
 
 🌩 Cloud-Native Development: My cloud skills revolve around designing and deploying highly available, scalable systems using AWS. I’m experienced with AWS Lambda for serverless functions and AWS Step Functions for orchestrating complex workflows.
 
-🚀 High-Performance Computing (HPC): My research in HPC focuses on maximizing computational efficiency using CUDA for GPU-accelerated applications. I’m constantly exploring new ways to optimize code performance, whether for machine learning models, data processing, or complex simulations.
+🚀 High-Performance Computing (HPC): My research in HPC focuses on maximizing computational efficiency. I’m constantly exploring new ways to optimize code performance, whether for machine learning models, data processing, or complex simulations.
 
 ## My Goals
 
