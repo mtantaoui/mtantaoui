@@ -1,4 +1,4 @@
-# Let's Build High-Performance Software Solutions Together! 🚀
+## About me
 
 With a strong foundation in Python and Rust, and a passion for high-performance computing and cloud technologies, I’m dedicated to creating efficient, scalable, and innovative software solutions. My work spans from numerical computing to cloud-based architectures, always pushing the boundaries of performance and reliability.
 
