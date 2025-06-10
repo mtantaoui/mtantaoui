@@ -5,3 +5,4 @@ I'm the creator and maintainer of:
 *   [integrate](https://github.com/mtantaoui/integrate) - A tool for numerical integration / easy system integration.
 
 Contributions and discussions are always welcome!
+Feel free to drop me an email at [mohamedalmahdi.tantaoui@gmail.com](mailto:mohamedalmahdi.tantaoui@gmail.com).
